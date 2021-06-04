@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme. -->
+
+    <style name="AppTheme.noActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+    </style>
+
+    <style name="TextView"/>
+    <style name="TextView.PoppinsNormal32spnavy">
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="android:textColor">@color/navy</item>
+        <item name="android:textSize">32sp</item>
+    </style>
+    <style name="TextView.PoppinsNormal16spnavy">
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="android:textColor">@color/navy</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="TextView.PoppinsNormal14spgray">
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="android:textColor">@color/gray</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="TextView.PoppinsSemiBold12spwhite">
+        <item name="fontFamily">@font/poppins_semibold</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="TextView.PoppinsNormal22spnavy">
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="android:textColor">@color/navy</item>
+        <item name="android:textSize">22sp</item>
+    </style>
+    <style name="TextView.PoppinsNormal12spgray">
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="android:textColor">@color/gray</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="TextView.PoppinsLight8spwhite">
+        <item name="android:fontFamily">@font/poppins_light</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">8sp</item>
+    </style>
+</resources>

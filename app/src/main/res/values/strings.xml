@@ -1,0 +1,45 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">NateMovie</string>
+    <string name="profile">Profile</string>
+    <string name="tvshow">TvShow</string>
+    <string name="movie">Movie</string>
+    <string name="logo">Logo</string>
+    <string name="imageprofile">ImageProfile</string>
+    <string name="let_s_watch_movie_now">Let’s Watch Movie Now</string>
+    <string name="let_s_watch_tv_show_now">Let’s Watch Tv Show Now</string>
+    <string name="poster">Poster</string>
+    <string name="aquaman">Aquaman</string>
+    <string name="imagestar">ImageStar</string>
+    <string name="_7_8">7.8</string>
+    <string name="genres">Action, Comedy</string>
+    <string name="imagedate">imageDate</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="list_all_movies">List All Movies</string>
+    <string name="time">2h 25m</string>
+    <string name="story">"Adele is a Scottish heiress whose extremely wealthy family owns estates and grounds. When she was a teenager. "</string>
+    <string name="director">Director: </string>
+    <string name="nabil">Nabil</string>
+    <string name="budget">Budget: </string>
+    <string name="dollar">$</string>
+    <string name="story_line">Story Line</string>
+    <string name="todo">TODO</string>
+    <string name="judul">Judul Film</string>
+    <string name="email">nabilalcha58@gmail.com</string>
+    <string name="github">Github</string>
+    <string name="ig">Instagram</string>
+    <string name="fb">Facebook</string>
+    <string name="linkIg">
+        <xliff:g id="application_instagram">https://www.instagram.com/arvnabil</xliff:g>
+    </string>
+    <string name="linkGit">
+        <xliff:g id="application_github">https://www.github.com/arvnabil</xliff:g>
+    </string>
+    <string name="linkFb">
+        <xliff:g id="application_facebook">https://www.facebook.com/arvnabil</xliff:g>
+    </string>
+    <string name="popular_tvshow">Popular TvShow</string>
+    <string name="list_all_tv_show">List All Tv Show</string>
+    <string name="creator">Creator: </string>
+    <string name="hours">Hours: </string>
+    <string name="exit">Click back again to Exit</string>
+</resources>
